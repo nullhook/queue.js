@@ -1,4 +1,4 @@
-# Queue.js
+# 🚦Queue.js
 
 An asynchronous queue system
 
