@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node resolver.js",
+    "start": "babel-node src/queue.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
