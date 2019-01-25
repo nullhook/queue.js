@@ -9,7 +9,7 @@ An asynchronous queue system
 
 ### queue.run()
 
-```
-let queue = new Queue({concurrency: 5});
+```javascript
+const queue = new Queue({concurrency: 5});
 await queue.run(async () => { });
 ```
